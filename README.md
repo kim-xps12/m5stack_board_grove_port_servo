@@ -2,6 +2,10 @@
 M5StackシリーズのGroveコネクタからサーボモータを直接駆動する際に便利な基板です．一部のｽﾀｯｸﾁｬﾝキットで使用されています．
 This is borad for connecing a servo mortor from M5Stack series Grove connector. Some kit of stack-chan include this.
 
+## Environment
+- Windows 11
+- KiCAD 7.0.
+
 ## BOM
 |  Item  |  Model number  |  Link  |
 | ---- | ---- | ---- |
