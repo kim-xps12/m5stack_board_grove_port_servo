@@ -10,6 +10,6 @@ This is borad for connecing a servo mortor from M5Stack series Grove connector. 
 |  Capacitor  |  Electrolytic, 35V, 100uF  | [akitsuki](https://akizukidenshi.com/catalog/g/gP-02724/)  |
 
 ## LICENCE
-MITライセンスでの公開です．頒布などの使い方をされる場合はご一報いただけると喜びます．
+MITライセンスでの公開です．頒布などの使い方をされる場合はご一報いただけると個人的に喜びます．
 It is released under the MIT license. I would appreciate it if you could let us know if you plan on distributing it or using it.
 (Twitter: eternalfriend17)
